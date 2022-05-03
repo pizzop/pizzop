@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pietro Pizzo
-- 👀 I’m interested in free software, GNU/Linux, architecture, container technologies, Kubernetes, DevOps, CI/CD, security, cloud and innovation
+- 👀 I’m interested in free software, container technologies, DevOps, CI/CD, security, cloud and innovation
 - 🌱 I’m always learning
 
 <!---
