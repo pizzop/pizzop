@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Pietro Pizzo
+- 👋 Hi, I’m Pietro Pizzo, I'm a Chief Technologist
 - 👀 I’m interested in free software, container technologies, DevOps, CI/CD, security, cloud and innovation
 - 🌱 I’m always learning
+- 📫 I work in DXC
 
 <!---
 - 💞️ I’m looking to collaborate on ...
