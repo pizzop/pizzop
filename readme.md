@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pietro Pizzo, I'm a Chief Technologist
-- 👀 I’m interested in AI, agentic coding, free software, container technologies, DevSecOps, CI/CD, security, cloud and innovation
+- 👀 I’m interested in AI, free software, security, cloud and innovation
 - ⛵️ I'm a sailor
 - 🌱 I’m always learning
 
